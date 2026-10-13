@@ -7,7 +7,8 @@ infrastructure as code, secretless CI/CD and hardened Kubernetes on Azure.
 
 ### Featured project
 
-**[HackOps Launchpad](https://github.com/K4lig/HackOps-Launchpad)**: an end-to-end DevSecOps platform on Azure.
+**[HackOps Launchpad](https://github.com/K4lig/HackOps-Launchpad)**: 
+An end-to-end DevSecOps platform on Azure.
 Terraform, AKS and Helm, CI/CD with OIDC federated credentials (no stored secrets),
 shift-left scanning with gitleaks, Semgrep, Trivy and Checkov, and Kubernetes hardened
 with Pod Security, NetworkPolicies and Workload Identity.
