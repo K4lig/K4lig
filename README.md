@@ -17,8 +17,11 @@ with Pod Security, NetworkPolicies and Workload Identity.
 ### Stack
 
 **Cloud:** Azure (AKS, Key Vault, Entra ID, Monitor) · AWS · Google Cloud
+
 **DevSecOps:** GitHub Actions · Azure DevOps · Terraform · Helm · Docker · Kubernetes
+
 **Security:** Trivy · Semgrep · Checkov · gitleaks · Wazuh · Splunk
+
 **Code:** Python · Bash · SQL · TypeScript
 
 ### Certifications
