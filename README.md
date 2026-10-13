@@ -1,6 +1,7 @@
 # Jandry Cabezas
 
-**Cloud Security & DevSecOps Engineer** · Ecuador · Open to remote work
+**Cloud Security & DevSecOps Engineer**\
+· Ecuador · Open to remote work
 
 I build cloud platforms where security is part of the pipeline, not an afterthought:
 infrastructure as code, secretless CI/CD and hardened Kubernetes on Azure.
@@ -16,17 +17,14 @@ with Pod Security, NetworkPolicies and Workload Identity.
 
 ### Stack
 
-**Cloud:** Azure (AKS, Key Vault, Entra ID, Monitor) · AWS · Google Cloud
-
-**DevSecOps:** GitHub Actions · Azure DevOps · Terraform · Helm · Docker · Kubernetes
-
-**Security:** Trivy · Semgrep · Checkov · gitleaks · Wazuh · Splunk
-
+**Cloud:** Azure (AKS, Key Vault, Entra ID, Monitor) · AWS · Google Cloud\
+**DevSecOps:** GitHub Actions · Azure DevOps · Terraform · Helm · Docker · Kubernetes\
+**Security:** Trivy · Semgrep · Checkov · gitleaks · Wazuh · Splunk\
 **Code:** Python · Bash · SQL · TypeScript
 
 ### Certifications
 
-Microsoft SC-401 · AWS Certified AI Practitioner · TryHackMe SAL1
+Microsoft SC-401 · AWS Certified AI Practitioner · TryHackMe SAL1<br>
 In progress: AWS Certified Cloud Practitioner · CompTIA Security+
 
 ### Contact
